@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,4 +13,4 @@ namespace MyLibrary
             Console.WriteLine(Figgle.FiggleFonts.Standard.Render(message));
         }
     }
-}
+}*/
