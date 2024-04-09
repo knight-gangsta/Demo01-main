@@ -1,4 +1,4 @@
-﻿﻿namespace MyLibrary
+﻿﻿/*namespace MyLibrary
 {
     public class MessageWriter
     {
@@ -7,4 +7,4 @@
             Console.WriteLine(message);
         }
     }
-}
+}*/
